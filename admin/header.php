@@ -100,9 +100,9 @@
           <span>Products</span>
         </a>
         <div class="dropdown-menu" aria-labelledby="pagesDropdown">
-          <h6 class="dropdown-header">Login Screens:</h6>
-          <a class="dropdown-item" href="login.html">Login</a>
-          <a class="dropdown-item" href="register.html">Register</a>
+          <h6 class="dropdown-header">New:</h6>
+          <a class="dropdown-item" href="login.html">New Product</a>
+          <a class="dropdown-item" href="register.html">New Product Category</a>
           <a class="dropdown-item" href="forgot-password.html">Forgot Password</a>
           <div class="dropdown-divider"></div>
           <h6 class="dropdown-header">Other Pages:</h6>
