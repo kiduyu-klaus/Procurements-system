@@ -102,7 +102,7 @@
         <div class="dropdown-menu" aria-labelledby="pagesDropdown">
           <h6 class="dropdown-header">New:</h6>
           <a class="dropdown-item" href="#">New Product</a>
-          <a class="dropdown-item" href="#">New Product Category</a>
+          <a class="dropdown-item" href="addcategory.php">New Product Category</a>
           <div class="dropdown-divider"></div>
           <h6 class="dropdown-header">View:</h6>
           <a class="dropdown-item" href="#">Products</a>
@@ -110,7 +110,7 @@
         </div>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="charts.html">
+        <a class="nav-link" href="#">
           <i class="fas fa-fw fa-chart-area"></i>
           <span>Bids</span></a>
       </li>
